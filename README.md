@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
+Hi I'm not sure I'd use these? Not loving the odd code or inline styling :)
 You can use the [editor on GitHub](https://github.com/kay-ltu/jekyll-demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
