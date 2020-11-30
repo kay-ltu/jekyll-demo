@@ -22,7 +22,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-<img src> https://images.unsplash.com/photo-1580584126903-c17d41830450?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=937&q=80</>
+<img src="https://images.unsplash.com/photo-1580584126903-c17d41830450?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=937&q=80"/>
 
 **Bold** and _Italic_ and `Code` text
 
